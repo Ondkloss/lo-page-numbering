@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-10-16 18:47+0200\n"
+"PO-Revision-Date: 2018-10-16 18:56+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nb\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. (itstool) path: topic/title
+#: PageNumberingAddon.oxt_extracted/help/en/com.addon.pagenumbering/Page01.xhp:5
+msgid "Page Numbering Add-on : Introduction"
+msgstr "Page Numbering utvidelse: Introduksjon"
+
+#. (itstool) path: body/paragraph
+#: PageNumberingAddon.oxt_extracted/help/en/com.addon.pagenumbering/Page01.xhp:10
+msgid "Page Numbering Add-on"
+msgstr "Page Numbering utvidelse"
+
+#. (itstool) path: paragraph/emph
+#: PageNumberingAddon.oxt_extracted/help/en/com.addon.pagenumbering/Page01.xhp:14
+msgid "Page Numbering Addon"
+msgstr "Page Numbering utvidelse"
+
+#. (itstool) path: body/paragraph
+#: PageNumberingAddon.oxt_extracted/help/en/com.addon.pagenumbering/Page01.xhp:13
+msgid "Page numbering in LibreOffice/OpenOffice is an unreasonably complicated procedure, especially for a new user. One has to fully understand where the page numbering info is stored for each document, how to use manual page breaks and in what way do page styles extend and work. Considering the fact that other office suites do follow a far more simple approach we decided to create <_:emph-1/>. Throughout this help section, we are going to explain how this addon adds an abstraction layer to the whole page numbering process."
+msgstr "Sidenummerering i LibreOffice/OpenOffice er en urimelig vanskelig prosedyre, spesielt for nye brukere. En må forstår hvor sidenummereringsinformasjonen er lagret for hvert dokument, hvordan bruke manuelle sideskift og hvordan sidestiler virker. Siden andre kontorsuiter har en mye enklere tilnærming til dette laget vi <_:emph-1/>. Gjennom denne hjelpesiden vil vi forklare hvordan denne utvidelsen abstraherer sidenummereringsprosessen."
+
+#. (itstool) path: body/paragraph
+#: PageNumberingAddon.oxt_extracted/help/en/com.addon.pagenumbering/Page01.xhp:19
+msgid "Introduction"
+msgstr "Introduksjon"
+
+#. (itstool) path: paragraph/emph
+#: PageNumberingAddon.oxt_extracted/help/en/com.addon.pagenumbering/Page01.xhp:24
+msgid "Insert-&gt;Page Numbering"
+msgstr "Sett inn-&gt;Page Numbering"
+
+#. (itstool) path: section/paragraph
+#: PageNumberingAddon.oxt_extracted/help/en/com.addon.pagenumbering/Page01.xhp:23
+msgid "The addon is accessible though <_:emph-1/>"
+msgstr "Utvidelsen er tilgjengelig gjennom <_:emph-1/>"
+
+#. (itstool) path: image/alt
+#: PageNumberingAddon.oxt_extracted/help/en/com.addon.pagenumbering/Page01.xhp:28
+msgid "Main dialog"
+msgstr "Hoveddialog"
+
+#. (itstool) path: body/paragraph
+#: PageNumberingAddon.oxt_extracted/help/en/com.addon.pagenumbering/Page01.xhp:27
+msgid "After accessing the menu item, the user is presented with the following interface dialog:<_:br-1/><_:image-2/>"
+msgstr "Etter å ha åpnet menyvalget blir brukeren presentert med følgende dialog:<_:br-1/><_:image-2/>"
+
+#. (itstool) path: paragraph/emph
+#: PageNumberingAddon.oxt_extracted/help/en/com.addon.pagenumbering/Page01.xhp:36
+msgid "Decor"
+msgstr "Dekor"
+
+#. (itstool) path: listitem/paragraph
+#: PageNumberingAddon.oxt_extracted/help/en/com.addon.pagenumbering/Page01.xhp:35
+msgid "<_:emph-1/>: Choose to either have simple numbering or surrounding text (e.g. -1-, [1])."
+msgstr "<_:emph-1/>: Velg å enten ha enkel sidenummerering eller omfavnende tekst (f.eks. -1-, [1])."
+
+#. (itstool) path: paragraph/emph
+#: PageNumberingAddon.oxt_extracted/help/en/com.addon.pagenumbering/Page01.xhp:41
+msgid "Numbering Type"
+msgstr "Nummereringstype"
+
+#. (itstool) path: listitem/paragraph
+#: PageNumberingAddon.oxt_extracted/help/en/com.addon.pagenumbering/Page01.xhp:40
+msgid "<_:emph-1/>: Choose from a number of different types such as Roman uppercase/lowercase numbering (i,ii... , I,II...), Arabic (1,2...) or Greek (α,β... , Α,Β...)."
+msgstr "<_:emph-1/>: Velg blandt flere typer som romersk stor/liten nummerering (i,ii... , I,II...), arabisk (1,2...) eller gresk (α,β... , Α,Β...)."
+
+#. (itstool) path: paragraph/emph
+#: PageNumberingAddon.oxt_extracted/help/en/com.addon.pagenumbering/Page01.xhp:46
+msgid "Alignment"
+msgstr "Justering"
+
+#. (itstool) path: listitem/paragraph
+#: PageNumberingAddon.oxt_extracted/help/en/com.addon.pagenumbering/Page01.xhp:45
+msgid "<_:emph-1/>: Define the alignment of numbering."
+msgstr "<_:emph-1/>: Definer justering av nummereringen."
+
+#. (itstool) path: paragraph/emph
+#: PageNumberingAddon.oxt_extracted/help/en/com.addon.pagenumbering/Page01.xhp:51
+msgid "Position"
+msgstr "Posisjon"
+
+#. (itstool) path: listitem/paragraph
+#: PageNumberingAddon.oxt_extracted/help/en/com.addon.pagenumbering/Page01.xhp:50
+msgid "<_:emph-1/>: Choose the position or numbering (currently available options are Header and Footer)"
+msgstr "<_:emph-1/>: Velg posisjonen til nummereringen (tilgjengelig valg er overskrift og bunntekst)"
+
+#. (itstool) path: paragraph/emph
+#: PageNumberingAddon.oxt_extracted/help/en/com.addon.pagenumbering/Page01.xhp:56
+msgid "Font"
+msgstr "Skrift"
+
+#. (itstool) path: listitem/paragraph
+#: PageNumberingAddon.oxt_extracted/help/en/com.addon.pagenumbering/Page01.xhp:55
+msgid "<_:emph-1/>: Choose from the list of available system fonts"
+msgstr "<_:emph-1/>: Velg fra listen av tilgjengelig systemskrifter"
+
+#. (itstool) path: body/paragraph
+#: PageNumberingAddon.oxt_extracted/help/en/com.addon.pagenumbering/Page01.xhp:60
+msgid "Some of the system fonts were not made to be compatible with certain characters so you may face compatibility issues and empty page numbers (e.g. a font may not support Greek characters)"
+msgstr "Noen av systemskriftene ble ikke laget kompatible med enkelte tegn slik at du kan oppleve kompatibilitetsproblemer og tomme sidenummer (f.eks. hvis skriften ikke støtter greske tegn)"
+
+#. (itstool) path: paragraph/emph
+#: PageNumberingAddon.oxt_extracted/help/en/com.addon.pagenumbering/Page01.xhp:66
+msgid "Size"
+msgstr "Størrelse"
+
+#. (itstool) path: listitem/paragraph
+#: PageNumberingAddon.oxt_extracted/help/en/com.addon.pagenumbering/Page01.xhp:65
+msgid "<_:emph-1/>: Define the font size"
+msgstr "<_:emph-1/>: Definer skriftstørrelsen"
+
+#. (itstool) path: paragraph/emph
+#: PageNumberingAddon.oxt_extracted/help/en/com.addon.pagenumbering/Page01.xhp:71
+msgid "First Page"
+msgstr "Første side<"
+
+#. (itstool) path: listitem/paragraph
+#: PageNumberingAddon.oxt_extracted/help/en/com.addon.pagenumbering/Page01.xhp:70
+msgid "<_:emph-1/>: The page where the numbering will begin from."
+msgstr "<_:emph-1/>: Siden der nummereringen vil begynne fra."
+
+#. (itstool) path: body/paragraph
+#: PageNumberingAddon.oxt_extracted/help/en/com.addon.pagenumbering/Page01.xhp:75
+msgid "A usage example of First Page option is the implementation of a document that includes a cover page and contents that do not include page numbering."
+msgstr "Et brukseksempel for første side valget er å ha et dokument som inkluderer forside og innholdsfortegnelse uten sidenummerering."
+
+#. (itstool) path: body/paragraph
+#: PageNumberingAddon.oxt_extracted/help/en/com.addon.pagenumbering/Page01.xhp:78
+msgid "Choosing a page different that the first of the document (1) will create two ranges, the first that will remain unnumbered and the second that will include numbers. This is the result of creating clone page styles in order to preserve previously created page styling customization."
+msgstr "Å velge en annen side enn den første i dokumentet (1) vil lage to serier, der den første vil forbli unummerert og den andre vil ha nummerering. Dette er resultatet av å klone sidestilen for å beholde tidligere sidestilendringer."
+
+#. (itstool) path: paragraph/emph
+#: PageNumberingAddon.oxt_extracted/help/en/com.addon.pagenumbering/Page01.xhp:84
+msgid "Start from..."
+msgstr "Start fra..."
+
+#. (itstool) path: listitem/paragraph
+#: PageNumberingAddon.oxt_extracted/help/en/com.addon.pagenumbering/Page01.xhp:83
+msgid "<_:emph-1/>: Define the offset(page number) of the first numbered page."
+msgstr "<_:emph-1/>: Velg forskyvningen (sidetall) av første nummererte side."
+
+#. (itstool) path: body/paragraph
+#: PageNumberingAddon.oxt_extracted/help/en/com.addon.pagenumbering/Page01.xhp:88
+msgid "Defining page offset simulates the alteration of the according paragraph property, letting a user choosing different page numbering schemes across the document (e.g. The first n pages are numbered using Roman uppercase while the rest use simple Arabic numbers)."
+msgstr "Å velge sideforskyvning simulerer endringen av det tilsvarende paragrafvalget, som lar brukeren velge forskjellige sidenummereringstyper innad i dokumentet (f.eks. de første n sidene er nummerert med romerske store tegn mens resten bruker arabiske tall)."

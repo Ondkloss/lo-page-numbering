@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<helpdocument version="1.0">
+   <meta>
+      <topic id="com.addon.pagenumbering.Page01">
+         <title id="tit" xml-lang="en">Page Numbering utvidelse: Introduksjon</title>
+         <filename>/com.addon.pagenumbering/Page01.xhp</filename>
+      </topic>
+   </meta>
+   <body>
+      <paragraph role="heading" level="1" xml-lang="en" id="N0001">Page Numbering utvidelse</paragraph>
+      <paragraph role="paragraph" xml-lang="en" id="N0002">Sidenummerering i LibreOffice/OpenOffice er en urimelig vanskelig prosedyre, spesielt for nye brukere. En må forstår hvor sidenummereringsinformasjonen er lagret for hvert dokument, hvordan bruke manuelle sideskift og hvordan sidestiler virker. Siden andre kontorsuiter har en mye enklere tilnærming til dette laget vi <emph>Page Numbering utvidelse</emph>. Gjennom denne hjelpesiden vil vi forklare hvordan denne utvidelsen abstraherer sidenummereringsprosessen.</paragraph>
+      <paragraph role="paragraph" xml-lang="en" id="N0003">
+         
+      </paragraph>
+      <paragraph role="heading" level="2" xml-lang="en" id="N0004">Introduksjon</paragraph>
+      <section id="Menu item">
+         <paragraph role="paragraph" xml-lang="en" id="N0005">Utvidelsen er tilgjengelig gjennom <emph>Sett inn-&gt;Page Numbering</emph></paragraph>
+      </section>
+      <paragraph role="paragraph" xml-lang="en" id="N0006">Etter å ha åpnet menyvalget blir brukeren presentert med følgende dialog:<br/><image src="com.addon.pagenumbering/../../../images/help/en/main_page_numbering.png" id="N0007"><alt xml-lang="en" id="N0008">Hoveddialog</alt></image></paragraph>
+      <paragraph role="paragraph" xml-lang="en" id="N0009">
+         
+      </paragraph>
+      <list type="unordered">
+         <listitem>
+            <paragraph role="listitem" xml-lang="en" id="N0010"><emph>Dekor</emph>: Velg å enten ha enkel sidenummerering eller omfavnende tekst (f.eks. -1-, [1]).</paragraph>
+         </listitem>
+         <listitem>
+            <paragraph role="listitem" xml-lang="en" id="N0011"><emph>Nummereringstype</emph>: Velg blandt flere typer som romersk stor/liten nummerering (i,ii... , I,II...), arabisk (1,2...) eller gresk (α,β... , Α,Β...).</paragraph>
+         </listitem>
+         <listitem>
+            <paragraph role="listitem" xml-lang="en" id="N0012"><emph>Justering</emph>: Definer justering av nummereringen.</paragraph>
+         </listitem>
+         <listitem>
+            <paragraph role="listitem" xml-lang="en" id="N0013"><emph>Posisjon</emph>: Velg posisjonen til nummereringen (tilgjengelig valg er overskrift og bunntekst)</paragraph>
+         </listitem>
+         <listitem>
+            <paragraph role="listitem" xml-lang="en" id="N0014"><emph>Skrift</emph>: Velg fra listen av tilgjengelig systemskrifter</paragraph>
+         </listitem>
+      </list>
+      <paragraph role="warning" xml-lang="en" id="N0015">Noen av systemskriftene ble ikke laget kompatible med enkelte tegn slik at du kan oppleve kompatibilitetsproblemer og tomme sidenummer (f.eks. hvis skriften ikke støtter greske tegn)</paragraph>
+      <list type="unordered">
+         <listitem>
+            <paragraph role="listitem" xml-lang="en" id="N0016"><emph>Størrelse</emph>: Definer skriftstørrelsen</paragraph>
+         </listitem>
+         <listitem>
+            <paragraph role="listitem" xml-lang="en" id="N0017"><emph>First Page</emph>: Siden der nummereringen vil begynne fra.</paragraph>
+         </listitem>
+      </list>
+      <paragraph role="tip" xml-lang="en" id="N0018">Et brukseksempel for første side valget er å ha et dokument som inkluderer forside og innholdsfortegnelse uten sidenummerering.</paragraph>
+      <paragraph role="tip" xml-lang="en" id="N0019">Å velge en annen side enn den første i dokumentet (1) vil lage to serier, der den første vil forbli unummerert og den andre vil ha nummerering. Dette er resultatet av å klone sidestilen for å beholde tidligere sidestilendringer.</paragraph>
+      <list type="unordered">
+         <listitem>
+            <paragraph role="listitem" xml-lang="en" id="N0020"><emph>Start fra...</emph>: Velg forskyvningen (sidetall) av første nummererte side.</paragraph>
+         </listitem>
+      </list>
+      <paragraph role="tip" xml-lang="en" id="N0021">Å velge sideforskyvning simulerer endringen av det tilsvarende paragrafvalget, som lar brukeren velge forskjellige sidenummereringstyper innad i dokumentet (f.eks. de første n sidene er nummerert med romerske store tegn mens resten bruker arabiske tall).</paragraph>
+      <paragraph role="paragraph" xml-lang="en" id="N0022">
+         
+      </paragraph>
+      <paragraph role="paragraph" xml-lang="en" id="N0023">
+         
+      </paragraph>
+   </body>
+</helpdocument>
